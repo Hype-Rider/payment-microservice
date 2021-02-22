@@ -2,6 +2,7 @@ HOW TO USE
 
 Pre-req
 - Must have created "prices" object ahead of time
+- Must have copied .env.example into .env and filled it out with your PK
 
 
 Charge someone a subscription
