@@ -19,7 +19,7 @@ export class PricesController {
 
   @Get(':id')
   findOne(@Param('id') id: string) {
-    return this.pricesService.findOne(+id);
+    return this.pricesService.findOne(id);
   }
 
   @Put(':id')
