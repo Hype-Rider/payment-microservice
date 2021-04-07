@@ -13,7 +13,7 @@
       ],
       "name": "payment-service",
       "image": "656157171339.dkr.ecr.us-west-1.amazonaws.com/payment-service",
-      "memory": 256,
+      "memory": 128,
       "essential": true,
       "logConfiguration": {
         "logDriver": "awslogs",
